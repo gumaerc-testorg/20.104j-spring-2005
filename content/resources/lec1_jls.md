@@ -2,8 +2,13 @@
 content_type: resource
 description: This file contains the introduction, overview, and examples of consideration
   for the course.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/20-104j-chemicals-in-the-environment-toxicology-and-public-health-be-104j-spring-2005/91348b309fb1093ffec00f2d59061d51_lec1_jls.pdf
+file: /media/courses/20-104j-chemicals-in-the-environment-toxicology-and-public-health-be-104j-spring-2005/91348b309fb1093ffec00f2d59061d51_lec1_jls.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec1_jls.pdf
 uid: 91348b30-9fb1-093f-fec0-0f2d59061d51
