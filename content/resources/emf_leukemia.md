@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: e0e5e093-c59d-575a-ab8c-2dac69136760
 resourcetype: Document
 title: emf_leukemia.pdf
 uid: 7de0c0f4-1ed9-c7d3-dd7f-490d66b26384

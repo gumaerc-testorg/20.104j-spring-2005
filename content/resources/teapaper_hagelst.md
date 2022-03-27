@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 46f448cb-c5d5-f10d-68ed-b62fbaaf26e5
 resourcetype: Document
 title: teapaper_hagelst.pdf
 uid: 7344212b-9bfa-813c-c15c-f6f92258ee56

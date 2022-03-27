@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 46f448cb-c5d5-f10d-68ed-b62fbaaf26e5
 resourcetype: Document
 title: teapaper_lee.pdf
 uid: 5939703a-04ae-7189-7b2e-1e756d6ff3c6

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 46f448cb-c5d5-f10d-68ed-b62fbaaf26e5
 resourcetype: Document
 title: teapaper_shea.pdf
 uid: d14f25f6-2d81-9533-466f-fe27670af6aa

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 55878743-c1ec-be5d-8d5a-c8eb585e20d3
 resourcetype: Document
 title: lec14_jls.pdf
 uid: 7b5f0ee1-8cf4-b376-7288-ad64303a66be

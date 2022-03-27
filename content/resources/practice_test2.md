@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 147a28ca-b914-07ea-e011-25a5eb8c674e
 resourcetype: Document
 title: practice_test2.pdf
 uid: ba94cc99-daa6-2437-4ca9-6545d166bda4

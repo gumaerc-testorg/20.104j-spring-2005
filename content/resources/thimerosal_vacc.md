@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: e0e5e093-c59d-575a-ab8c-2dac69136760
 resourcetype: Document
 title: thimerosal_vacc.pdf
 uid: 26d21a65-36cc-c6e7-98c6-f6f2a3a06886
