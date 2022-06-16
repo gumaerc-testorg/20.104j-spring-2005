@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Lecture notes section provides us with the notes on the topics covered
+  in the class.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -34,7 +36,7 @@ INSTRUCTORS
 {{< tdopen >}}
 
 
-Introductory Lecture ([PDF 1]({{< baseurl >}}/resources/lec1_green)) ([PDF 2]({{< baseurl >}}/resources/lec1_jls))
+Introductory Lecture ({{% resource_link 7b364806-9af0-03bf-d663-6d4cfde0f23d "PDF 1" %}}) ({{% resource_link 91348b30-9fb1-093f-fec0-0f2d59061d51 "PDF 2" %}})
 
 
 {{< tdclose >}}
@@ -86,7 +88,7 @@ Dr. Laura Green
 {{< tdopen >}}
 
 
-From the Real World to Hollywood and Back Again ([PDF]({{< baseurl >}}/resources/lec3_green))
+From the Real World to Hollywood and Back Again ({{% resource_link 1497be37-92f9-fe22-72fd-76cd56b1b4a3 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -110,7 +112,7 @@ Dr. Laura Green
 {{< tdopen >}}
 
 
-Epidemiology: Persons, Places, and Time ([PDF]({{< baseurl >}}/resources/lec4_jls))
+Epidemiology: Persons, Places, and Time ({{% resource_link bad66b7a-2a10-901a-0778-253cf6f1c911 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -134,7 +136,7 @@ Prof. James Sherley
 {{< tdopen >}}
 
 
-Epidemiology: Test Development and Relative Risk ([PDF]({{< baseurl >}}/resources/lec5_jls))
+Epidemiology: Test Development and Relative Risk ({{% resource_link 34be1760-14f4-c7db-49a5-fa3b0216e6af "PDF" %}})
 
 
 {{< tdclose >}}
@@ -158,7 +160,7 @@ Prof. James Sherley
 {{< tdopen >}}
 
 
-Biostatistics: Concepts in Variance ([PDF 1]({{< baseurl >}}/resources/lec6_exercise)) ([PDF 2]({{< baseurl >}}/resources/lec6_jls))
+Biostatistics: Concepts in Variance ({{% resource_link 4f7ed7c3-a55d-0a54-eb65-c239a376715c "PDF 1" %}}) ({{% resource_link adbad195-936f-b618-6325-fd44734796cf "PDF 2" %}})
 
 
 {{< tdclose >}}
@@ -184,7 +186,7 @@ Prof. James Sherley
 
 Biostatistics: Distribution and the Mean
 
-Confidence Intervals ([PDF]({{< baseurl >}}/resources/lec7_jls))
+Confidence Intervals ({{% resource_link da23dc19-b67e-185d-b250-54a30d27103b "PDF" %}})
 
 
 {{< tdclose >}}
@@ -208,7 +210,7 @@ Prof. James Sherley
 {{< tdopen >}}
 
 
-Biostatistics: Detecting Differences and Correlations ([PDF]({{< baseurl >}}/resources/lec8_jls))
+Biostatistics: Detecting Differences and Correlations ({{% resource_link e242e32f-7982-88ec-0f8b-5682f88876b3 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -232,7 +234,7 @@ Prof. James Sherley
 {{< tdopen >}}
 
 
-Biostatistics: Poisson Analyses and Power ([PDF]({{< baseurl >}}/resources/lec9_jls))
+Biostatistics: Poisson Analyses and Power ({{% resource_link 9f8ab166-0445-d47a-a690-97a37c7b976b "PDF" %}})
 
 
 {{< tdclose >}}
@@ -256,7 +258,7 @@ Prof. James Sherley
 {{< tdopen >}}
 
 
-Environetics: Cause and Effect ([PDF]({{< baseurl >}}/resources/lec10))
+Environetics: Cause and Effect ({{% resource_link 79497ea7-3fb9-3ffc-c0a5-989dec320c4d "PDF" %}})
 
 
 {{< tdclose >}}
@@ -304,7 +306,7 @@ Prof. James Sherley
 {{< tdopen >}}
 
 
-Environetics: Putting it all together - Evaluating Studies ([PDF]({{< baseurl >}}/resources/lec12_jls))
+Environetics: Putting it all together - Evaluating Studies ({{% resource_link 84a53e92-04f6-a517-8959-a7f8e32b4d35 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -352,7 +354,7 @@ Prof. James Sherley
 {{< tdopen >}}
 
 
-Evaluating Environmental Causes of Mesothelioma ([PDF]({{< baseurl >}}/resources/lec14_jls))
+Evaluating Environmental Causes of Mesothelioma ({{% resource_link 7b5f0ee1-8cf4-b376-7288-ad64303a66be "PDF" %}})
 
 
 {{< tdclose >}}
@@ -400,7 +402,7 @@ Dr. Laura Green
 {{< tdopen >}}
 
 
-Quantitative Risk Assessment 2 ([PDF]({{< baseurl >}}/resources/lec16_green))
+Quantitative Risk Assessment 2 ({{% resource_link 926aaa72-5a40-08fc-93b7-d5b4b4e3141c "PDF" %}})
 
 
 {{< tdclose >}}
@@ -544,7 +546,7 @@ Prof. Steven Tannenbaum
 {{< tdopen >}}
 
 
-Quantitative Risk Assessment 3 ([PDF]({{< baseurl >}}/resources/lec22_green))
+Quantitative Risk Assessment 3 ({{% resource_link 083da8c6-ab6a-b8f3-d62c-496df6abe1e5 "PDF" %}})
 
 
 {{< tdclose >}}

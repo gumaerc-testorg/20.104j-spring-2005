@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: Readings section contains the required readings for the topics covered
+  in the class from the course textbooks.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
