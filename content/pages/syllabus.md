@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The syllabus contains required texts, grading polciy alongwith recitations,
+  assignments, quizzes and team project.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: d4bebeb8-6ec3-7067-9595-0552bd88273b
 ---

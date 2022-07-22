@@ -1,5 +1,14 @@
 ---
 content_type: page
+description: Students will be grouped into teams of 3-4 students to work jointly on
+  a project to investigate an environmental agent for which there is reason for concern
+  about possible adverse health effects for human populations. The investigation will
+  center on concepts developed during the term, with emphasis on relating environmental
+  exposures and toxicological mechanisms to quantitative risk assessment of potential
+  health effects.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: e0e5e093-c59d-575a-ab8c-2dac69136760
 ---
@@ -41,6 +50,6 @@ Each presentation should be targeted for 15 minutes, with all members of the tea
 
 Following are example final team project papers, presented courtesy of the authors, used with permission.
 
-Rupali Avasare, Christina Fuentes, and Lynn Ngo. "An investigation into the supposed link between thimerosal-containing vaccines and autism." ([PDF]({{< baseurl >}}/resources/thimerosal_vacc))
+Rupali Avasare, Christina Fuentes, and Lynn Ngo. "An investigation into the supposed link between thimerosal-containing vaccines and autism." ({{% resource_link 26d21a65-36cc-c6e7-98c6-f6f2a3a06886 "PDF" %}})
 
-Lisa An, Sueann Lee, and Erin Mathewson. "Electromagnetic Fields (EMFs) and Childhood Leukemia." ([PDF]({{< baseurl >}}/resources/emf_leukemia))
+Lisa An, Sueann Lee, and Erin Mathewson. "Electromagnetic Fields (EMFs) and Childhood Leukemia." ({{% resource_link 7de0c0f4-1ed9-c7d3-dd7f-490d66b26384 "PDF" %}})
