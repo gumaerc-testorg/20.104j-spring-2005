@@ -5,6 +5,7 @@ file: /courses/20-104j-chemicals-in-the-environment-toxicology-and-public-health
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps3.pdf
 uid: fce9b861-0724-05ca-c70c-644d74218287
 ---
 This resource includes 8 questions on Mortality Morbidity.
-

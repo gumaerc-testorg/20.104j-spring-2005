@@ -6,6 +6,7 @@ file: /courses/20-104j-chemicals-in-the-environment-toxicology-and-public-health
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec5_jls.pdf
 uid: 34be1760-14f4-c7db-49a5-fa3b0216e6af
 ---
 This file contains definitions, tests, categories of test results, risks for epidemiology.
-

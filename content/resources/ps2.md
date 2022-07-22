@@ -5,6 +5,7 @@ file: /courses/20-104j-chemicals-in-the-environment-toxicology-and-public-health
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps2.pdf
 uid: 9b347f82-6b90-1215-8eea-fa9d6b6d1928
 ---
 This resource includes 6 problems based on public health.
-

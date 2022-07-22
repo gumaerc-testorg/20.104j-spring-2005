@@ -5,6 +5,7 @@ file: /courses/20-104j-chemicals-in-the-environment-toxicology-and-public-health
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec16_green.pdf
 uid: 926aaa72-5a40-08fc-93b7-d5b4b4e3141c
 ---
 This file contains notes on Quantitative Risk Assessment.
-

@@ -6,6 +6,7 @@ file: /courses/20-104j-chemicals-in-the-environment-toxicology-and-public-health
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: teapaper_shea.pdf
 uid: d14f25f6-2d81-9533-466f-fe27670af6aa
 ---
 This resource is an example of the topic Lady Tasting Tea paper by Erin Shea.
-

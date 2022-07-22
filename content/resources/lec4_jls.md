@@ -6,6 +6,7 @@ file: /courses/20-104j-chemicals-in-the-environment-toxicology-and-public-health
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec4_jls.pdf
 uid: bad66b7a-2a10-901a-0778-253cf6f1c911
 ---
 This file contains review of environmental health science paradigm, The questions for the EHS.
-

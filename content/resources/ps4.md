@@ -6,6 +6,7 @@ file: /courses/20-104j-chemicals-in-the-environment-toxicology-and-public-health
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ps4.pdf
 uid: 3d2c7b43-ae12-39a5-01a9-d025a3a53a0a
 ---
 This resource includes 4 problems on Environmental chemicals and Health Risk Assessment.
-

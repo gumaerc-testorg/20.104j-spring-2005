@@ -6,6 +6,7 @@ file: /courses/20-104j-chemicals-in-the-environment-toxicology-and-public-health
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec14_jls.pdf
 uid: 7b5f0ee1-8cf4-b376-7288-ad64303a66be
 ---
 This file contains the notes for Toxicological mechanisms and causation evaluations, and an environetics case: Asbestos and Mesothelioma.
-

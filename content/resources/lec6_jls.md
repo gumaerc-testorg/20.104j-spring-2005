@@ -6,6 +6,7 @@ file: /courses/20-104j-chemicals-in-the-environment-toxicology-and-public-health
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec6_jls.pdf
 uid: adbad195-936f-b618-6325-fd44734796cf
 ---
 This file contains the notes for making variance, frequency plots and distributions, pure sampling, clusters and final words.
-

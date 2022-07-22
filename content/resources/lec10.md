@@ -6,6 +6,7 @@ file: /courses/20-104j-chemicals-in-the-environment-toxicology-and-public-health
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec10.pdf
 uid: 79497ea7-3fb9-3ffc-c0a5-989dec320c4d
 ---
 This file contains the genetic pedegree analysis, genetic features, environetics and its features, methods and cause-effect relationship determination.
-

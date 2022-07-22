@@ -6,6 +6,7 @@ file: /courses/20-104j-chemicals-in-the-environment-toxicology-and-public-health
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ps5.pdf
 uid: 0382b738-58e7-4594-82a5-da13b265f556
 ---
 This resource includes problem on "arguments for and against a linear non-threshold approach to regulation of environmental chemicals?"
-
