@@ -67,7 +67,7 @@ Dr. Laura Green
 {{< tdopen >}}
 
 
-Watch film [_A Civil Action_](http://www.imdb.com/title/tt0120633/)
+Watch film {{% resource_link "9467e6ee-4f38-4dcc-a61c-6887fe045d6f" "_A Civil Action_" %}}
 
 
 {{< tdclose >}}
