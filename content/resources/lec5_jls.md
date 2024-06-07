@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains definitions, tests, categories of test results, risks
   for epidemiology.
 file: /courses/20-104j-chemicals-in-the-environment-toxicology-and-public-health-be-104j-spring-2005/34be176014f4c7db49a5fa3b0216e6af_lec5_jls.pdf
+file_size: 195017
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

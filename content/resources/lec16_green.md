@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains notes on Quantitative Risk Assessment.
 file: /courses/20-104j-chemicals-in-the-environment-toxicology-and-public-health-be-104j-spring-2005/926aaa725a4008fc93b7d5b4b4e3141c_lec16_green.pdf
+file_size: 1754716
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
