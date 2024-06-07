@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes 6 problems based on public health.
 file: /courses/20-104j-chemicals-in-the-environment-toxicology-and-public-health-be-104j-spring-2005/9b347f826b9012158eeafa9d6b6d1928_ps2.pdf
+file_size: 67423
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains the flowchart and graph for health risk assessement.
 file: /courses/20-104j-chemicals-in-the-environment-toxicology-and-public-health-be-104j-spring-2005/7b3648069af003bfd6636d4cfde0f23d_lec1_green.pdf
+file_size: 150946
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

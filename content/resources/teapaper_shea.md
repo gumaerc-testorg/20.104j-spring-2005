@@ -3,6 +3,7 @@ content_type: resource
 description: This resource is an example of the topic Lady Tasting Tea paper by Erin
   Shea.
 file: /courses/20-104j-chemicals-in-the-environment-toxicology-and-public-health-be-104j-spring-2005/d14f25f62d819533466ffe27670af6aa_teapaper_shea.pdf
+file_size: 30677
 file_type: application/pdf
 learning_resource_types:
 - Assignments

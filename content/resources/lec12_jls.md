@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains notes on historical studies, and evaluation of study
   examples.
 file: /courses/20-104j-chemicals-in-the-environment-toxicology-and-public-health-be-104j-spring-2005/84a53e9204f6a5178959a7f8e32b4d35_lec12_jls.pdf
+file_size: 45617
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

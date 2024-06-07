@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains the genetic pedegree analysis, genetic features, environetics
   and its features, methods and cause-effect relationship determination.
 file: /courses/20-104j-chemicals-in-the-environment-toxicology-and-public-health-be-104j-spring-2005/79497ea73fb93ffcc0a5989dec320c4d_lec10.pdf
+file_size: 655175
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
