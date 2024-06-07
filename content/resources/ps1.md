@@ -3,6 +3,7 @@ content_type: resource
 description: This resource includes problems and references to complete the write
   up on "Disease in your own state or country."
 file: /courses/20-104j-chemicals-in-the-environment-toxicology-and-public-health-be-104j-spring-2005/e6af6660c05a86ef345e239862a90e24_ps1.pdf
+file_size: 16443
 file_type: application/pdf
 learning_resource_types:
 - Assignments
