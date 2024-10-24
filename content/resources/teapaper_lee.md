@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is an example of the topic Lady Tasting Tea paper by Sueann
   Lee.
-file: /courses/20-104j-chemicals-in-the-environment-toxicology-and-public-health-be-104j-spring-2005/5939703a04ae71897b2e1e756d6ff3c6_teapaper_lee.pdf
+file: /ol-ocw-studio-app/courses/20-104j-chemicals-in-the-environment-toxicology-and-public-health-be-104j-spring-2005/5939703a04ae71897b2e1e756d6ff3c6_teapaper_lee.pdf
 file_size: 33682
 file_type: application/pdf
 learning_resource_types:

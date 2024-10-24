@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains the notes for Toxicological mechanisms and causation
   evaluations, and an environetics case: Asbestos and Mesothelioma.'
-file: /courses/20-104j-chemicals-in-the-environment-toxicology-and-public-health-be-104j-spring-2005/7b5f0ee18cf4b3767288ad64303a66be_lec14_jls.pdf
+file: /ol-ocw-studio-app/courses/20-104j-chemicals-in-the-environment-toxicology-and-public-health-be-104j-spring-2005/7b5f0ee18cf4b3767288ad64303a66be_lec14_jls.pdf
 file_size: 66372
 file_type: application/pdf
 learning_resource_types:
