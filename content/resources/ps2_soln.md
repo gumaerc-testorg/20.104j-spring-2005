@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes solutions to the 6 problems based on public health.
-file: /courses/20-104j-chemicals-in-the-environment-toxicology-and-public-health-be-104j-spring-2005/c61c04b1ae6475d19285154a25122428_ps2_soln.pdf
+file: /ol-ocw-studio-app/courses/20-104j-chemicals-in-the-environment-toxicology-and-public-health-be-104j-spring-2005/c61c04b1ae6475d19285154a25122428_ps2_soln.pdf
 file_size: 137224
 file_type: application/pdf
 learning_resource_types:
