@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes problem on "arguments for and against a linear
   non-threshold approach to regulation of environmental chemicals?"
-file: /ol-ocw-studio-app/courses/20-104j-chemicals-in-the-environment-toxicology-and-public-health-be-104j-spring-2005/0382b73858e7459482a5da13b265f556_ps5.pdf
+file: /courses/20-104j-chemicals-in-the-environment-toxicology-and-public-health-be-104j-spring-2005/0382b73858e7459482a5da13b265f556_ps5.pdf
 file_size: 8675
 file_type: application/pdf
 learning_resource_types:
