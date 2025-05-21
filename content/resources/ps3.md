@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes 8 questions on Mortality Morbidity.
-file: /ol-ocw-studio-app/courses/20-104j-chemicals-in-the-environment-toxicology-and-public-health-be-104j-spring-2005/fce9b861072405cac70c644d74218287_ps3.pdf
+file: /courses/20-104j-chemicals-in-the-environment-toxicology-and-public-health-be-104j-spring-2005/fce9b861072405cac70c644d74218287_ps3.pdf
 file_size: 19931
 file_type: application/pdf
 learning_resource_types:
