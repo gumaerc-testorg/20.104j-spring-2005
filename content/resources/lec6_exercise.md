@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the classroom exercise for making variance.
-file: /courses/20-104j-chemicals-in-the-environment-toxicology-and-public-health-be-104j-spring-2005/4f7ed7c3a55d0a54eb65c239a376715c_lec6_exercise.pdf
+file: /ol-ocw-studio-app/courses/20-104j-chemicals-in-the-environment-toxicology-and-public-health-be-104j-spring-2005/4f7ed7c3a55d0a54eb65c239a376715c_lec6_exercise.pdf
 file_size: 91948
 file_type: application/pdf
 learning_resource_types:
