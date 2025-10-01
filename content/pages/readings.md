@@ -56,7 +56,7 @@ Dr. Laura Green
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Watch film [_A Civil Action_](http://www.imdb.com/title/tt0120633/)
+Watch film {{% resource_link "56816991-e247-43ed-b757-3032cd29b837" "_A Civil Action_" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Prof. James Sherley  
